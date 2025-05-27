@@ -1,0 +1,11 @@
+Build type: Monthly-Unofficial
+Device: Realme GT Master Edition (lunaa)
+Required firmware: Rui F.18 [RMX3360_13.1.0.161(EX01)]
+Device maintainer: ehhhSenpai
+Support Group: https://t.me/crdroid_lunaa
+
+===== 25-05-2025 =====
+~ source sync
+~ may 2025 security patch
+~ added OTA update
+~ set default hotspot SSID as Realme GT Master

@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "ehhhSenpai",
+        "oem": "Realme",
+        "device": "Realme GT Master Edition",
+        "filename": "crDroidAndroid-15.0-20250525-lunaa-v11.5.zip",
+        "download": "https://github.com/ehhhSenpai/crDroid-releases/releases/download/11.5/crDroidAndroid-15.0-20250525-lunaa-v11.5.zip",
+        "timestamp": 1748171818,
+        "md5": "2647765494dc741a95bd16fabc742aac",
+        "sha256": "aabc1bb6c4938cf9c0b88baa4479a68d9e460e589541e761c1941dfce098b018",
+        "size": 1821392525,
+        "version": "11.5",
+        "buildtype": "Monthly-Unofficial",
+        "forum": "",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://github.com/pjgowtham/android_device_realme_lunaa/releases/download/lineage-21.0-20240522-UNOFFICIAL-lunaa/recovery-lineage-21.0-20240522-UNOFFICIAL-lunaa.zip",
+        "paypal": "",
+        "telegram": "https://t.me/crdroid_lunaa",
+        "dt": "https://github.com/ehhhSenpai/pj_android_device_realme_lunaa",
+        "common-dt": "https://github.com/ehhhSenpai/pj_android_device_oneplus_sm8350-common",
+        "kernel": "https://github.com/ehhhSenpai/vm_android_kernel_oneplus_sm8350"
+    }
+  ]
+}
